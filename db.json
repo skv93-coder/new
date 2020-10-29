@@ -4,7 +4,7 @@
   "articles": [
     {
       "source": {
-        "id": null,
+        "id": "null",
         "name": "Daily Mail"
       },
       "author": "By Sabi Phagura for MailOnline",
@@ -17,7 +17,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": "null",
         "name": "FXStreet"
       },
       "author": "FXStreet Team",
@@ -43,7 +43,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": "null",
         "name": "Zerohedge.com"
       },
       "author": "Tyler Durden",
@@ -56,7 +56,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": "null",
         "name": "newsBTC"
       },
       "author": "Tony Spilotro",
