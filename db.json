@@ -1,16 +1,71 @@
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
+  "status": "ok",
+  "totalResults": 3720,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Sabi Phagura for MailOnline",
+      "title": "British ISIS 'member used Bitcoin to help militants escape Syrian prison camps'",
+      "description": "Hisham Chaudhary of Oadby faces seven terror charges, including counts of disseminating a terrorist publication, membership of a proscribed organisation and counts of entering a funding arrangement.",
+      "url": "https://www.dailymail.co.uk/news/article-8894719/British-ISIS-member-used-Bitcoin-help-militants-escape-Syrian-prison-camps.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/20/35015338-0-image-a-37_1604002397733.jpg",
+      "publishedAt": "2020-10-29T20:21:41Z",
+      "content": "A British ISIS member alleged to have used Bitcoin to send money abroad to help captured militants escape Syrian prison camps, has appeared before court.\r\nHisham Chaudhary faces seven terror charges,… [+2138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FXStreet"
+      },
+      "author": "FXStreet Team",
+      "title": "Forex Today: More stimulus coming from the ECB, dollar backed by fears and data",
+      "description": "Here is what you need to know on Friday, October 30: The American currency appreciated against most major rivals, finding support in risk aversion and",
+      "url": "https://www.fxstreet.com/news/forex-today-more-stimulus-coming-from-the-ecb-dollar-backed-by-fears-and-data-202010292012",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/dollar-and-euro-bills-58059534_Large.jpg",
+      "publishedAt": "2020-10-29T20:12:57Z",
+      "content": "Here is what you need to know on Friday, October 30:\r\nThe American currency appreciated against most major rivals, finding support in risk aversion and better-than-expected US macroeconomic figures. … [+1430 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "bwinck@businessinsider.com (Ben Winck)",
+      "title": "Dow climbs 139 points, Nasdaq soars as tech giants rally ahead of earnings",
+      "description": "Apple, Amazon, Facebook, and Alphabet led gains ahead of the companies' latest earnings reports. Twitter and Starbucks are also set to report.",
+      "url": "https://www.businessinsider.com/stock-market-news-today-tech-earnings-gdp-growth-jobless-claims-2020-10",
+      "urlToImage": "https://i.insider.com/5f9b140169331a0011bc6252?width=1200&format=jpeg",
+      "publishedAt": "2020-10-29T20:04:27Z",
+      "content": "<ul><li>US equities climbed higher on Thursday as rallying tech stocks and encouraging economic data reversed some of Wednesday's plunge.</li><li>Apple, Amazon, Facebook, and Alphabet led gains ahead… [+5804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zerohedge.com"
+      },
+      "author": "Tyler Durden",
+      "title": "Stocks, Dollar, & Bitcoin Jump; Bonds & Black Gold Dump After Record GDP",
+      "description": "Stocks, Dollar, & Bitcoin Jump; Bonds & Black Gold Dump After Record GDP\n\n Tyler Durden\n \nThu, 10/29/2020 - 16:00\n\n A better than expected record rebound in GDP prompted traders to buy the 'rumor' ahead of tonight's explosive set of earnings from FB, TWTR, AA…",
+      "url": "https://www.zerohedge.com/markets/stocks-dollar-bitcoin-jump-bonds-black-gold-dump-ahead-earnings-palooza",
+      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/2020-10-29_12-35-25.jpg?itok=PqymqEyV",
+      "publishedAt": "2020-10-29T20:00:58Z",
+      "content": "A better than expected record rebound in GDP prompted traders to buy the 'rumor' ahead of tonight's explosive set of earnings from FB, TWTR, AAPL, &amp; AMZN with stocks running stops through gamma p… [+2102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "newsBTC"
+      },
+      "author": "Tony Spilotro",
+      "title": "Three Reasons Why Chainlink’s Downtrend Against Bitcoin Just Started",
+      "description": "Chainlink is easily the best performing cryptocurrency for the last three years, and this year managed to outperform Bitcoin by over 500%. But the tides have finally turned on the two opposing crypto coins, and it could signal an extended downtrend against th…",
+      "url": "https://www.newsbtc.com/analysis/link/three-reasons-why-chainlinks-downtrend-against-bitcoin-just-started/",
+      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/10/bitcoin-chainlink-downtrend-crypto-altcoin-Depositphotos_208668960_xl-2015-scaled.jpg",
+      "publishedAt": "2020-10-29T20:00:41Z",
+      "content": "Chainlink is easily the best performing cryptocurrency for the last three years, and this year managed to outperform Bitcoin by over 500%. But the tides have finally turned on the two opposing crypto… [+2822 chars]"
+    }
+  ]
 }
